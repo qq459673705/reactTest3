@@ -6,7 +6,27 @@
     },
     {
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
+        "author": "Paul O\u2019Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1465803146970,
+        "author": "21312",
+        "text": "124414"
+    },
+    {
+        "id": 1465803160011,
+        "author": "jmm",
+        "text": "fucker"
+    },
+    {
+        "id": 1465803170682,
+        "author": "caipeini",
+        "text": "love me"
+    },
+    {
+        "id": 1465805179920,
+        "author": "`var this.name = 'mss'`",
+        "text": "`html<doc>`"
     }
 ]
